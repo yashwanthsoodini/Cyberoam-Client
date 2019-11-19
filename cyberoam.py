@@ -53,5 +53,3 @@ with requests.Session() as s:
             sys.exit()
 
 # v.2.0 - current version uses 2 threads, but only checks for Response Code 200 during login
-# Sridhama Prakhya
-# sridhama.com
